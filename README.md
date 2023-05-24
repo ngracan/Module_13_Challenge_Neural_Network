@@ -17,3 +17,7 @@ Preprocess data for a neural network model.
 Use the model-fit-predict pattern to compile and evaluate a binary classification model.
 
 Optimise the model.
+
+`Results from testing models:`
+
+Based on the results, all models created in the analysis have almost exactly the same accuracy, ranging form 72.9-73.01%. Alternative model 1, had slighty higher accuracy than the original model and alternative model 2; this was the model that was optimized to include 3 hidden layers that also used the tanh activation function.
